@@ -1,0 +1,17 @@
+.map{
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  &__notif{
+    background-color: rgba(255,255,255,0.7);
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    text-align: center;
+    border: 1px solid $border;
+    h5{
+      color: $black-text;
+      font-weight: 500;
+    }
+  }
+}

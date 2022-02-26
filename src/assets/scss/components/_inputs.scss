@@ -1,0 +1,39 @@
+.input{
+  @include input;
+  display: grid;
+  grid-template-columns: 80px 1fr 20px;
+  align-items: center;
+  &__label{
+    @include label;
+  }
+  &__text {
+    width: 100%;
+    color: $black-text;
+    caret-color: $success-color;
+    margin-right: 0.5rem;
+    height: 100%;
+    &[type="tel"] {
+      direction: ltr;
+      text-align: right;
+    }
+  }
+  &__icon {
+    @include dot;
+  }
+
+}
+.location{
+  &-title{
+    @include label;
+  }
+  &-input{
+    @include input;
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    &__icon{
+      @include dot;
+    }
+  }
+
+}

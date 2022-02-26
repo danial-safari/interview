@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_4" data-name="Group 4" transform="translate(-477 -145)">
+    <g id="Group_5" data-name="Group 5">
+      <g id="Group_3" data-name="Group 3" transform="translate(477 145)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="50" height="50" rx="12" fill="#fff"/>
+      </g>
+      <path id="Icon_material-phone-android" data-name="Icon material-phone-android" d="M19.86,1.5H10.871C9.006,1.5,7.5,3.31,7.5,5.553V27.167c0,2.243,1.506,4.053,3.371,4.053H19.86c1.865,0,3.371-1.81,3.371-4.053V5.553C23.231,3.31,21.725,1.5,19.86,1.5ZM17.613,28.518H13.118V27.167h4.495Zm3.652-4.053H9.466V5.553h11.8Z" transform="translate(486.634 154.5)"/>
+    </g>
+  </g>
+</svg>

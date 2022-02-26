@@ -1,0 +1,18 @@
+// twilands
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+//normalize
+@import "normalize";
+// Fonts
+@import "fonts";
+// variables
+@import "variables";
+//mixin
+@import "mixin";
+
+@import "general";
+
+@import "components/all";
+
+@import "pages/not-found";

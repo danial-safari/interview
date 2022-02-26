@@ -1,0 +1,30 @@
+.button{
+  background-color: $success-color;
+  border-radius: 0.5rem;
+  text-align: center;
+  width: calc(100% - 0.76rem);
+  padding: 1rem 0;
+  z-index: 10;
+  color: $white;
+  font-weight: 500;
+  height: 50px;
+  left: 0.371rem;
+  right: 0.371rem;
+}
+.navigation__button{
+  background: $primary-color;
+  border-radius: 50%;
+  bottom: 20px;
+  position: fixed;
+  left: 15px;
+  width: 57px;
+  height: 57px;
+  cursor: pointer;
+  transition: .3s ease;
+  z-index: 999;
+  box-shadow: 0 0 25px $primary-color;
+  &:hover{
+    transform: translateY(-3px);
+    box-shadow: 0px 0px 25px $primary-color;
+  }
+}

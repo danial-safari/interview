@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_6" data-name="Group 6" transform="translate(-871 -146)">
+    <g id="Group_2" data-name="Group 2" transform="translate(871 146)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="50" height="50" rx="12" fill="#fff"/>
+    </g>
+    <path id="Icon_metro-user" data-name="Icon metro-user" d="M19.519,22.758V21.21a8.386,8.386,0,0,0,3.755-6.977c0-4.666,0-8.449-5.632-8.449s-5.632,3.783-5.632,8.449a8.386,8.386,0,0,0,3.755,6.977v1.548C9.395,23.279,4.5,26.408,4.5,30.191H30.784c0-3.783-4.9-6.913-11.265-7.433Z" transform="translate(878.359 153.012)"/>
+  </g>
+</svg>
